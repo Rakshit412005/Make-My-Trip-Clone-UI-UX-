@@ -24,16 +24,7 @@ A responsive UI/UX clone of the popular travel booking website **Make My Trip**,
 
 ---
 
-## 📸 Screenshots  
-| Page          | Preview      |  
-|---------------|--------------|  
-| **Homepage**  | ![Homepage Screenshot](#) |  
-| **Flights**   | ![Flights Screenshot](#) |  
-| **Holidays**  | ![Holidays Screenshot](#) |  
-| **Homestays** | ![Homestays Screenshot](#) |  
-| **Hotels**    | ![Hotels Screenshot](#) |  
 
-(*Replace `#` with actual links or paths to your screenshots*)
 
 ---
 
