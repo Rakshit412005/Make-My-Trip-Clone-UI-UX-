@@ -28,7 +28,8 @@ A responsive UI/UX clone of the popular travel booking website **Make My Trip**,
 
 ---
 
-
+## 🌐 Live Demo  
+Check out the live version of the project here: [Make My Trip Clone](https://rakshit412005.github.io/Make-My-Trip-Clone-UI-UX/)
 
 ---
 
@@ -48,3 +49,4 @@ A responsive UI/UX clone of the popular travel booking website **Make My Trip**,
 ├── 📄 homestays.html  
 ├── 📄 hotels.html  
 └── README.md  
+
